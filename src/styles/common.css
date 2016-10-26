@@ -1,0 +1,21 @@
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+@import url("../node_modules/font-awesome/css/font-awesome.min.css");
+body {
+    background: #2c3e50;
+}
+body>.container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+body>.container>h1 {
+    color: #fff;
+}
+.card {
+    margin-bottom: 0;
+}
+.card .card-block p:last-child {
+    margin-bottom: 0;
+}
+i.fa {
+    margin-right: 8px;
+}
