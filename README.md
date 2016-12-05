@@ -1,10 +1,10 @@
 # nw.js-examples
 
-[nw.js][nwjs] features demonstrated in a simple project.
+[NW.js][nwjs] features demonstrated in a simple project.
 
 ![application screenshot][screen]
 
-This project will be part of the article "Building a Cross-Platform Desktop App with nw.js" on [Sitepoint][sitepoint].
+This project is part of the article [Building a Cross-Platform Desktop App with NW.js][article] on Sitepoint.
 
 ## Requirements
 
@@ -43,6 +43,7 @@ The output files can be found under `dist/`.
 
 [nwjs]: http://nwjs.io/
 [screen]: https://github.com/julmot/nw.js-examples/blob/master/.github/screen.png
+[article]: https://www.sitepoint.com/cross-platform-desktop-app-nw-js
 [sitepoint]: https://www.sitepoint.com/
 [nodejs]: https://nodejs.org/en/
 [download]: https://github.com/julmot/nw.js-examples/archive/master.zip
